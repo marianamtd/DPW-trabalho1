@@ -11,5 +11,6 @@ Por gostarmos muito de livros, decidimos criar uma livraria inspirada na Darksid
 [Acesse o Github da Clara](https://github.com/Clarathms)
 
 ### Atenção
+---
 Todos os direitos autorais das imagens são pertencentes aos donos delas
 
